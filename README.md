@@ -1,11 +1,11 @@
-# PBD_Project (Preciso Atualizar)
+# Projeto da disciplina de projeto de banco de dados 
 
-##Sobre
-- O projeto foi desenvolvido utilizando  o framework _Django_;
-- Optei por utilizar postgresql como banco de dados, pois o django dá melhor suporte.
+### Sobre
+> O projeto foi desenvolvido utilizando  o framework Django.
+> Optamos por utilizar postgresql como banco de dados, pois o django dá melhor suporte.
 
 
-## Ajustes Iniciais
+### Ajustes Iniciais
 Para fazer a instalação do sistema em sua máquina local, recomendo que esteja executando o python na versão 3.8 ou superior.
 - Dentro da pasta do projeto, crie um ambiente virtual e ative-o.
 ```shell
@@ -25,7 +25,7 @@ $ pip install -r requirements.txt
 ```
 
 
-## Configurações
+### Configurações
 
 [Opcional]
 
